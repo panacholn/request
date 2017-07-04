@@ -1,0 +1,23 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "Axios library with error config.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panacholn/request.git"
+  },
+  "keywords": [
+    "npm",
+    "request"
+  ],
+  "author": "Panacholn Pongsamrithphol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panacholn/request/issues"
+  },
+  "homepage": "https://github.com/panacholn/request#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
