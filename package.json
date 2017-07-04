@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "my-request",
   "version": "1.0.0",
   "description": "Axios library with error config.",
   "main": "src/index.js",
