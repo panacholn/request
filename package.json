@@ -1,5 +1,5 @@
 {
-  "name": "my-request",
+  "name": "tnrequest",
   "version": "1.0.0",
   "description": "Axios library with error config.",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [
     "npm",
-    "request"
+    "tnrequest"
   ],
   "author": "Panacholn Pongsamrithphol",
   "license": "MIT",
